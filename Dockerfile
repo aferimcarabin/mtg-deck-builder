@@ -1,4 +1,4 @@
-FROM aferimcarabin/mtg-deck-builder:db
+FROM mysql:latest
 
 WORKDIR /
 
